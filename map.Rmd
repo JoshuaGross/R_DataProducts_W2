@@ -1,0 +1,28 @@
+---
+title: "In 'n Out Locations"
+output: html_document
+---
+
+This document shows a map of In 'n Out locations, gathered through
+nefarious means.
+
+## Read in locations
+```{r, echo=FALSE}
+locations <- read.csv("./innout.csv")
+locations$popup <- locations$label
+head(locations)
+```
+
+## All locations
+
+```{r, echo=FALSE}
+library(leaflet)
+locations %>% leaflet() %>% addTiles() %>% addMarkers()
+```
+
+## All locations, clustered
+
+```{r, echo=FALSE}
+library(leaflet)
+locations %>% leaflet() %>% addTiles() %>% addMarkers(clusterOptions = markerClusterOptions())
+```

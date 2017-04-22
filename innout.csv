@@ -1,0 +1,326 @@
+lat,lng,label
+37.78372,-122.27728,Alameda
+34.10603,-118.13437,Alhambra
+33.1292,-96.65334,Allen
+40.37595,-111.81472,American Fork
+33.81903,-117.88868,Anaheim
+33.82483,-117.9585,Anaheim
+33.85933,-117.79148,Anaheim Hills
+34.14532,-118.03124,Arcadia
+32.6782,-97.12294,Arlington
+35.12729,-120.59796,Arroyo Grande
+35.49698,-120.6844,Atascadero
+38.90133,-121.07483,Auburn
+30.29219,-97.74169,Austin
+30.40499,-97.67414,Austin
+30.30434,-97.71564,Austin
+30.23866,-97.78861,Austin
+33.45937,-112.34041,Avondale
+34.11765,-117.90734,Azusa
+35.29633,-119.02855,Bakersfield (Panama Ln.)
+35.35451,-119.05794,Bakersfield (Stockdale Hwy)
+34.06767,-117.97349,Baldwin Park
+34.85006,-117.08238,Barstow
+37.96115,-121.74774,Brentwood
+33.84731,-118.0281,Buena Park
+34.18497,-118.31607,Burbank
+33.9214,-116.80362,Cabazon
+34.21722,-119.05295,Camarillo
+34.19492,-118.60635,Canoga Park
+33.12509,-117.32465,Carlsbad
+32.98171,-117.07757,Carmel Mountain
+39.10902,-119.77493,Carson Valley
+32.88018,-111.68225,Casa Grande
+30.52461,-97.82056,Cedar Park
+40.92237,-111.8895,Centerville
+33.88714,-118.1021,Cerritos
+33.30639,-111.89176,Chandler (Chandler & Price)
+33.2812,-111.79024,Chandler (Germann & Gilbert)
+33.3204,-111.96413,Chandler (Ray Rd.)
+39.72393,-121.8068,Chico
+33.9974,-117.71853,Chino
+32.62049,-116.96204,Chula Vista
+33.99033,-117.91538,City Of Industry
+34.02749,-117.83467,City Of Industry (Grand & Valley)
+36.83692,-119.70056,Clovis
+33.88166,-117.61349,Corona (Auto Center Dr.)
+33.84403,-117.53647,Corona (Ontario Ave. & I-15)
+33.64369,-117.92289,Costa Mesa
+33.68773,-117.9199,Costa Mesa
+34.10491,-117.87307,Covina
+33.99165,-118.44626,Culver City
+32.92522,-96.77061,Dallas
+32.85997,-96.76943,Dallas
+32.95705,-96.82097,Dallas (Addison)
+32.92404,-96.83873,Dallas (Midway)
+37.68821,-122.47202,Daly City
+37.66603,-122.46904,Daly City
+38.54097,-121.73722,Davis
+33.22515,-97.17135,Denton
+33.67905,-111.97676,Desert Ridge
+34.0005,-117.84346,Diamond Bar
+33.93609,-118.12421,Downey
+40.52883,-111.88928,Draper
+32.8194,-116.96199,El Cajon
+32.77146,-115.55267,El Centro
+33.92387,-118.39582,El Segundo
+38.42411,-121.3915,Elk Grove
+33.04729,-117.28499,Encinitas
+33.11518,-117.1019,Escondido
+38.25727,-122.0647,Fairfield
+38.64672,-121.11442,Folsom
+34.07498,-117.43523,Fontana
+33.68158,-117.66941,Foothill Ranch
+32.7514,-97.35867,Fort Worth
+32.899,-97.3223,Fort Worth
+32.68031,-97.39506,Fort Worth (Hulen)
+32.80709,-97.42463,Fort Worth (Lake Worth)
+37.50421,-121.97399,Fremont
+36.70482,-119.77024,Fresno (2nd Street)
+36.79612,-119.78992,Fresno (Blackstone & Ashlan)
+36.85229,-119.7904,Fresno (Blackstone & Nees)
+36.8085,-119.88316,Fresno (Shaw)
+33.1018,-96.80456,Frisco
+33.86023,-117.92398,Fullerton
+33.76643,-117.97211,Garden Grove
+33.8732,-118.30729,Gardena
+32.95409,-96.61745,Garland
+33.30588,-111.74348,Gilbert
+37.0238,-121.56419,Gilroy
+34.1456,-118.25545,Glendale (Brand & Broadway)
+34.14868,-118.22735,Glendale (Harvey & Holly)
+34.11673,-117.82941,Glendora
+34.44289,-119.79074,Goleta
+32.92662,-97.08656,Grapevine
+34.0194,-117.9873,Hacienda Heights
+36.32131,-119.67359,Hanford
+33.74698,-117.00175,Hemet
+36.06331,-115.03392,Henderson
+34.4705,-117.29092,Hesperia (Bear Valley Rd.)
+34.42713,-117.37809,Hesperia (Main St.)
+34.10791,-117.19374,Highland
+34.09822,-118.34171,Hollywood
+33.70038,-117.98861,Huntington Beach
+33.98704,-118.2248,Huntington Park
+32.8404,-97.18486,Hurst
+33.71425,-116.23308,Indio
+33.94579,-118.33238,Inglewood
+33.65015,-117.84063,Irvine
+32.89691,-96.95976,Irving
+32.81967,-117.14869,Kearny Mesa
+35.98616,-119.95924,Kettleman City
+31.09033,-97.72142,Killeen
+35.21825,-114.03694,Kingman
+33.9244,-117.92377,La Habra
+33.88254,-118.02468,La Mirada
+34.03759,-117.95173,La Puente
+33.71257,-116.29265,La Quinta
+34.11313,-117.76564,La Verne
+33.61331,-117.70842,Laguna Hills (El Toro)
+33.5453,-117.67383,Laguna Niguel (Avery Pkwy.)
+33.56497,-117.70737,Laguna Niguel (La Paz)
+33.66356,-117.29851,Lake Elsinore
+34.47483,-114.34779,Lake Havasu City
+33.86098,-118.12471,Lakewood
+32.59681,-96.8217,Lancaster
+34.70441,-118.16698,Lancaster
+36.11744,-115.1699,Las Vegas
+36.04056,-115.19118,Las Vegas (Blue Diamond Rd.)
+36.2652,-115.25707,Las Vegas (Centennial)
+36.10132,-115.18219,Las Vegas (Dean Martin & Tropicana)
+36.02139,-115.11813,Las Vegas (Eastern Ave.)
+36.19564,-115.24654,Las Vegas (Lake Mead Blvd.)
+36.10417,-115.13758,Las Vegas (Maryland Pkwy & Tropicana)
+36.16083,-115.06266,Las Vegas (Nellis)
+36.14486,-115.18057,Las Vegas (Sahara)
+36.10069,-115.30211,Las Vegas (Tropicana Ave. & Tee Pee Ln.)
+35.15922,-114.57523,Laughlin
+34.98345,-118.94828,Lebec (Tejon Ranch)
+32.74421,-117.04325,Lemon Grove
+38.87275,-121.304,Lincoln
+37.69939,-121.77326,Livermore
+38.11596,-121.3082,Lodi
+33.75847,-118.11117,Long Beach
+33.83109,-118.08485,Long Beach (Carson St.)
+33.79119,-118.14011,Long Beach (Los Coyotes Diagonal)
+32.58242,-97.13479,Mansfield
+37.79717,-121.19248,Manteca
+32.35514,-111.093,Marana
+42.34643,-122.88006,Medford
+33.68112,-117.17501,Menifee
+37.29835,-120.48184,Merced
+33.3834,-111.80633,Mesa
+33.39005,-111.85768,Mesa (Alma School Rd.)
+33.38169,-111.5997,Mesa (Signal Butte)
+40.62037,-111.85666,Midvale
+37.89661,-122.5155,Mill Valley
+37.60082,-122.38243,Millbrae
+37.42629,-121.92238,Milpitas
+32.91764,-117.12193,Mira Mesa
+32.76952,-117.14345,Mission Valley
+37.66949,-121.0356,Modesto
+37.6998,-121.06759,Modesto
+34.28022,-118.86544,Moorpark
+33.94211,-117.26014,Moreno Valley
+37.15249,-121.6548,Morgan Hill
+37.38038,-122.07402,Mountain View (El Camino Real & Grant)
+37.42096,-122.09334,Mountain View (Rengstorff)
+33.57324,-117.17903,Murrieta
+38.28112,-122.27624,Napa
+32.65966,-117.10659,National City
+34.18371,-118.91459,Newbury Park
+34.37714,-118.56538,Newhall
+33.90852,-117.56168,Norco
+34.17746,-118.38194,North Hollywood
+36.28523,-115.1344,North Las Vegas
+36.23968,-115.11141,North Las Vegas
+34.25,-118.50196,Northridge (Balboa & Lassen)
+34.23079,-118.55324,Northridge (Tampa Ave.)
+33.90119,-118.08224,Norwalk
+38.0897,-122.55495,Novato
+37.74037,-122.1984,Oakland
+33.23782,-117.29927,Oceanside
+33.20394,-117.38399,Oceanside
+34.0327,-117.66782,Ontario (Mountain Ave.)
+34.06834,-117.55714,Ontario (Ontario Mills)
+34.06922,-117.61145,Ontario (Vineyard & G St.)
+33.78813,-117.81646,Orange (Chapman & Prospect)
+33.83196,-117.83569,Orange (Tustin & Lincoln)
+40.27312,-111.68661,Orem
+32.41542,-110.93879,Oro Valley
+34.23508,-119.17967,Oxnard
+32.80896,-117.21887,Pacific Beach
+34.57934,-118.12803,Palmdale
+34.22201,-118.43073,Panorama City
+33.59897,-111.97967,Paradise Valley
+34.14948,-118.1068,Pasadena
+33.96709,-117.46584,Pedley
+33.63773,-112.23301,Peoria
+38.23457,-122.62086,Petaluma
+30.46439,-97.59744,Pflugerville
+33.50715,-112.03922,Phoenix
+33.66206,-112.11673,Phoenix (27th Ave.)
+33.50809,-112.26647,Phoenix (Camelback)
+33.80054,-112.12994,Phoenix (Carefree Hwy)
+33.58241,-112.11982,Phoenix (Metro Square)
+34.00053,-118.08306,Pico Rivera
+37.98907,-122.31071,Pinole
+38.00537,-121.83634,Pittsburg
+33.87434,-117.87841,Placentia
+38.72039,-120.83314,Placerville
+33.03473,-96.70497,Plano
+37.97606,-122.06558,Pleasant Hill
+37.70022,-121.90763,Pleasanton
+34.02579,-117.74946,Pomona (Garey Ave.)
+34.07792,-117.71965,Pomona (Indian Hill Blvd.)
+34.2758,-118.56807,Porter Ranch
+32.93892,-117.04651,Poway
+34.55245,-112.40924,Prescott
+33.25877,-111.64037,Queen Creek
+38.61461,-121.26897,Rancho Cordova
+34.10585,-117.53026,Rancho Cucamonga (Foothill & I-15)
+34.10625,-117.60964,Rancho Cucamonga (Foothill & Vineyard)
+33.64253,-117.60524,Rancho Santa Margarita
+40.58532,-122.3478,Redding
+33.89208,-118.36179,Redondo Beach
+37.49059,-122.22785,Redwood City
+39.45201,-119.77732,Reno
+34.1344,-117.37003,Rialto
+41.19122,-111.97999,Riverdale
+33.93579,-117.40385,Riverside
+40.5226,-111.98478,Riverton
+38.80166,-121.20451,Rocklin
+32.90942,-96.44848,Rockwall
+38.36124,-122.71419,Rohnert Park
+34.08397,-118.07301,Rosemead
+38.78966,-121.28319,Roseville (Fairway Dr.)
+38.75825,-121.25955,Roseville (Taylor Rd.)
+30.56186,-97.69112,Round Rock
+38.59805,-121.4194,Sacramento
+38.65535,-121.52592,Sacramento (Del Paso)
+38.66041,-121.3571,Sacramento (Madison)
+38.63683,-121.50424,Sacramento (Truxel)
+36.67993,-121.6409,Salinas
+29.49497,-98.7085,San Antonio
+29.64852,-98.44978,San Antonio
+34.10794,-117.30054,San Bernardino (5th Street)
+34.06638,-117.26181,San Bernardino (Tippecanoe)
+37.51288,-122.25859,San Carlos
+32.75191,-117.20527,San Diego (Sports Arena Blvd.)
+34.27802,-118.45306,San Fernando
+37.80773,-122.41858,San Francisco
+37.3503,-121.92187,San Jose
+37.33009,-121.81133,San Jose (Capitol & Tully)
+37.24904,-121.85943,San Jose (Santa Teresa Blvd.)
+37.68697,-122.13113,San Leandro
+33.13718,-117.17717,San Marcos
+29.89218,-97.91448,San Marcos
+33.75336,-118.30862,San Pedro
+37.77914,-121.97702,San Ramon
+33.7523,-117.88474,Santa Ana (Bristol & Civic Center)
+33.70036,-117.8851,Santa Ana (Macarthur)
+37.388,-121.98201,Santa Clara
+34.42546,-118.53924,Santa Clarita (Bouquet Canyon)
+34.42368,-118.42316,Santa Clarita (Sand Canyon)
+33.93957,-118.04684,Santa Fe Springs
+34.93734,-120.41884,Santa Maria
+37.101,-121.0146,Santa Nella
+38.46063,-122.72527,Santa Rosa
+32.83901,-116.99388,Santee
+33.63651,-111.91983,Scottsdale
+33.78222,-118.07251,Seal Beach
+36.60592,-121.85847,Seaside
+34.1521,-118.44831,Sherman Oaks
+33.81199,-118.18333,Signal Hill
+34.28305,-118.69094,Simi Valley
+33.95274,-118.18831,South Gate
+39.53557,-119.75259,Sparks
+37.98471,-121.34561,Stockton
+34.13508,-118.36062,Studio City
+37.36097,-122.02497,Sunnyvale
+33.47588,-117.12363,Temecula (Highway 79)
+33.51498,-117.159,Temecula (Jefferson Ave.)
+33.4349,-111.92543,Tempe
+34.09244,-118.03846,Temple City
+33.07076,-96.87604,The Colony
+33.81566,-116.40139,Thousand Palms
+33.84883,-118.35312,Torrance
+33.83114,-118.28839,Torrance (Carson St.)
+33.80279,-118.32835,Torrance (Crenshaw & Lomita)
+37.76184,-121.43377,Tracy
+32.22177,-110.84038,Tucson
+32.29045,-110.97786,Tucson
+32.17825,-110.94288,Tucson
+32.222,-110.91414,Tucson (Broadway)
+34.24106,-118.26655,Tujunga
+37.5205,-120.8817,Turlock
+33.72286,-117.79367,Tustin
+33.69499,-117.82708,Tustin (District)
+39.16879,-123.2109,Ukiah
+37.59927,-122.06561,Union City
+34.10724,-117.68629,Upland
+38.36646,-121.96114,Vacaville
+34.21504,-118.44821,Van Nuys
+34.20186,-118.5007,Van Nuys (Balboa)
+34.26841,-119.27283,Ventura
+34.52112,-117.32202,Victorville
+36.31346,-119.31423,Visalia
+33.18455,-117.28496,Vista
+31.5514,-97.12444,Waco
+37.1278,-113.52311,Washington City
+34.0714,-117.88194,West Covina (Garvey Ave.)
+34.08978,-117.94092,West Covina (San Bernardino Rd.)
+40.60978,-111.98588,West Jordan
+34.02646,-118.39427,West Los Angeles
+38.59157,-121.55012,West Sacramento
+40.69142,-111.95765,West Valley City
+33.95369,-118.39677,Westchester
+34.14764,-118.79711,Westlake Village
+33.75871,-118.01959,Westminster
+34.06306,-118.44803,Westwood
+29.51138,-98.39647,Windcrest
+38.67024,-121.72802,Woodland
+34.17195,-118.56664,Woodland Hills
+39.13592,-121.63516,Yuba City
+34.02775,-117.11733,Yucaipa
+32.69905,-114.60057,Yuma
