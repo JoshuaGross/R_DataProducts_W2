@@ -6,6 +6,8 @@ output: html_document
 This document shows a map of In 'n Out locations, gathered through
 nefarious means.
 
+Date generated: April 22, 2017
+
 ## Read in locations
 ```{r, echo=FALSE}
 locations <- read.csv("./innout.csv")
